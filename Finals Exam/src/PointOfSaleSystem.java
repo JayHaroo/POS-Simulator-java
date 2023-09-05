@@ -1,14 +1,3 @@
-/* Create a Point of Sale System using Data structures
- * 
- * Submitted By:
- * Leader: Saturno , M-Jey
- * Arandia , Amira Ashxena
- * Gotengco , Marione Nicole
- * Mendoza , Allyzza
- * Tapas , John Ren D. 
- * 
- * From 2CS-A
- */
 import java.util.Scanner;
 
 public class PointOfSaleSystem {
